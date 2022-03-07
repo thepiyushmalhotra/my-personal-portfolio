@@ -1,5 +1,6 @@
 {
   "name": "frontend_react",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,9 +12,12 @@
     "framer-motion": "^6.2.8",
     "node-sass": "^7.0.1",
     "react": "^17.0.2",
+    "react-app-polyfill": "^3.0.0",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
+    "react-tooltip": "^4.2.21",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
