@@ -4,6 +4,19 @@
   flex-direction: column;
 }
 
+.about__para {
+  text-align: justify;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin: 1rem 13rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .about__para {
+    margin: 1rem 1rem;
+  }
+}
+
 .app__profiles {
   display: flex;
   justify-content: center;
