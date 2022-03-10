@@ -45,7 +45,8 @@
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-color: #edf2f8;
+    transition: 300ms ease-in-out;
+    background-color: #161032;
 
     img {
       width: 50%;
@@ -53,10 +54,9 @@
     }
 
     &:hover {
-      //   transform: scale(1.05);
-      transition: all 300ms ease-in-out;
-      background-color: #fff;
-      box-shadow: 0px 0px 5px 0.5px rgba(0, 0, 0, 0.1);
+      transition: box-shadow 300ms ease-in-out;
+      // background-color: #57737a;
+      box-shadow: 0px 0px 5px 3px #ff5d73;
       cursor: pointer;
     }
 
