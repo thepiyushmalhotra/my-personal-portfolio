@@ -18,14 +18,14 @@ const About = () => {
 
   return (
     <>
-      <h2 className="head-text">A little bit <span>About Me</span></h2><br></br>
+      <h2 className="head-text">A little bit <span>About Me</span> and my <span>Career Interests</span></h2><br></br>
       <p className="about__para">I view myself as a coding enthusiast and I love tinkering with tech, building stuff, and 
-        creating projects be it in software or web development, game development, and data science. 
-        Even at home, I am in a permanent Beta Mode: Constantly learning, evolving, and getting proficient 
-        in software development. My love of reading integrates well with my coding habit as I am always riffling 
-        through Hacker News, programming subreddits, or tearing through books even remotely related to computer science. 
-        Apart from reading, my other favorite hobby is gaming so naturally, I fused that too into my affinity for programming 
-        by learning Unity. When I'm not working, I enjoy Art, Skateboarding and Reading.</p>
+        creating projects be it in web development, game development or data science. Even at home, I am in a permanent 
+        Beta Mode: Constantly learning, evolving, and getting proficient in fields related to my career. My love of reading 
+        integrates well with my coding habit as I am always riffling through Hacker News, programming subreddits, or 
+        tearing through books even remotely related to computer science. Apart from reading, my other favorite hobby is 
+        gaming so naturally, I fused that too into my affinity for programming by learning Unity. 
+        When I'm not working, I enjoy Gaming, Art, Journaling, Skateboarding and Reading.</p>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (

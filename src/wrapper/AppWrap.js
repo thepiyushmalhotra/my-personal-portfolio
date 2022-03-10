@@ -10,8 +10,8 @@ const AppWrap = (Component, idName, classNames) =>
           <Component />
 
           <div className="copyright">
-            <p className="p-text">Piyush Malhotra</p>
-            <p className="p-text">Full Stack Developer</p>
+            {/* <p className="p-text">Piyush Malhotra</p>
+            <p className="p-text">Full Stack Developer</p> */}
           </div>
         </div>
         <NavigationDots active={idName} />

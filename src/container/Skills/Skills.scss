@@ -54,10 +54,9 @@
     }
 
     &:hover {
-      transition: box-shadow 300ms ease-in-out;
-      // background-color: #57737a;
-      box-shadow: 0px 0px 5px 3px #ff5d73;
-      cursor: pointer;
+      transition: all 200ms ease-in-out;
+      transform: rotate(25deg);
+      // box-shadow: 0px 0px 5px 3px #f45b69;
     }
 
     @media screen and (min-width: 2000px) {
