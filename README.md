@@ -30,7 +30,7 @@ This is probably my first "Proper" personal project that I made which is live on
 - Ask for help whenever you can, from wherever you can. The ego part comes again here. You don't know everything and neither does other programmers. We are all in an awesome community and we are here to help each other grow.
 
 
-## React & Project Info
+# React & Project Info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
