@@ -1,6 +1,6 @@
 # My Personal Portfolio
 
-https://piyushmalhotra.netlify.app/
+Check out the Live Website - https://piyushmalhotra.netlify.app/
 
 ![portfolio_home](https://user-images.githubusercontent.com/46517096/157948019-0e3a81f9-9905-46fb-b1d0-caa139572378.png)
 ![portfolio_about](https://user-images.githubusercontent.com/46517096/157948099-8c6021df-547d-48bd-ac95-a9a83adfa54e.png)
