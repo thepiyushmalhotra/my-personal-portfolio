@@ -9,7 +9,7 @@ Check out the Live Website - https://piyushmalhotra.netlify.app/
 
 
 ## About
-Been long enough since I've been learning to code. So I figured it would be a good idea to make a well designed and an aesthetically pleasing portfolio. And here we are, I followed some tutorials on youtube, particularly from Javascript Mastery channel and then added my own personal touches to it. Overall, it was a good learning experience. My main objective was to learn React JS and if along the way, I get to make an impressive portfolio, why not?
+Been long enough since I've been learning to code. So I figured it would be a good idea to make a well designed and an aesthetically pleasing portfolio. And here we are, I followed some tutorials on youtube, and then added my own personal touches to it. Overall, it was a good learning experience. My main objective was to learn React JS and if along the way, I get to make an impressive portfolio, why not?
 
 ## Things I Learned
 - React JS - I knew React before but was still rusty in it a little bit so this project gave me a lot of confidence in using it and hopefully I'll be able to create more interesting projects with it and increase my proficiency.
